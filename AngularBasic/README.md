@@ -7,5 +7,5 @@
 - HTML
 - TypeScript
 
-![Course List](https://imgur.com/gallery/Ldr9Yk3)
-![Course Info](https://imgur.com/gallery/qkYJJFK)
+![Course List](https://i.imgur.com/X1aXL4p.png)
+![Course Info](https://i.imgur.com/Qx1aGAw.png)
